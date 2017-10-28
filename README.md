@@ -1,6 +1,5 @@
-# Example React Starter Template
+# CV Website
 
-## Follows instructions from [https://github.com/entangly/scripts/blob/master/react/create-react-app-steps.md](https://github.com/entangly/scripts/blob/master/react/create-react-app-steps.md)
 
 # sass
 This project includes Sass.
