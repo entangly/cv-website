@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1140px" height="400px" viewBox="200 150 400 300">
+<defs>
+<style type="text/css"> @import url(http://fonts.googleapis.com/css?family=Open+Sans:normal); </style>
+</defs>
+<clipPath id="cp1">
+<path d="M 0,0 L 800,0 L800,600 L 0,600 z M 0,0 L 1000,0 L 1000,750 L 0,750 z" fill-rule="evenodd">
+</path>
+</clipPath>
+<g clip-path="url(#cp1)">
+</g>
+<rect x="0" y="0" width="1000" height="750" opacity="1" fill="rgb(255,255,255)" fill-opacity="0" stroke="none">
+</rect>
+<text x="-153.57093811035156" y="9.297015000000002" style="font: normal 92.97015px 'Open Sans'" text-anchor="start" dy="36.74709486166008" opacity="1" fill="rgb(31, 190, 224)" stroke="none" transform="translate(400, 298) rotate(-12)">Django</text>
+<text x="-152.95809936523438" y="9.297015000000002" style="font: normal 92.97015px 'Open Sans'" text-anchor="start" dy="36.74709486166008" opacity="1" fill="rgb(0, 0, 0)" stroke="none" transform="translate(410, 222) rotate(-12)">Python</text>
+<text x="-150.56448364257812" y="5.5782089999999975" style="font: normal 55.78209px 'Open Sans'" text-anchor="start" dy="22.04825691699605" opacity="1" fill="rgb(163, 163, 163)" stroke="none" transform="translate(424, 388)">PostgreSQL</text>
+<text x="-80.15178680419922" y="4.648507500000001" style="font: normal 46.485075px 'Open Sans'" text-anchor="start" dy="18.37354743083004" opacity="1" fill="rgb(31, 190, 224)" stroke="none" transform="translate(356, 180) rotate(-12)">Heroku</text>
+<text x="-30.994293212890625" y="4.648507500000001" style="font: normal 46.485075px 'Open Sans'" text-anchor="start" dy="18.37354743083004" opacity="1" fill="rgb(76, 76, 76)" stroke="none" transform="translate(412, 354) rotate(-12)">Git</text>
+<text x="-74.71585083007812" y="3.718805999999999" style="font: normal 37.18806px 'Open Sans'" text-anchor="start" dy="14.698837944664033" opacity="1" fill="rgb(0, 0, 0)" stroke="none" transform="translate(582, 344) rotate(12)">REST-api</text>
+<text x="-69.09832000732422" y="3.718805999999999" style="font: normal 37.18806px 'Open Sans'" text-anchor="start" dy="14.698837944664033" opacity="1" fill="rgb(163, 163, 163)" stroke="none" transform="translate(550, 170) rotate(12)">Security</text>
+<text x="-41.00177001953125" y="3.253955249999999" style="font: normal 32.5395525px 'Open Sans'" text-anchor="start" dy="12.861483201581029" opacity="1" fill="rgb(31, 190, 224)" stroke="none" transform="translate(458, 430)">Redis</text>
+<text x="-84.14901733398438" y="2.7891044999999988" style="font: normal 27.891045px 'Open Sans'" text-anchor="start" dy="11.024128458498025" opacity="1" fill="rgb(0, 0, 0)" stroke="none" transform="translate(306, 426)">Optimisation</text>
+<text x="-45.276458740234375" y="2.7891044999999988" style="font: normal 27.891045px 'Open Sans'" text-anchor="start" dy="11.024128458498025" opacity="1" fill="rgb(31, 190, 224)" stroke="none" transform="translate(550, 250)">Scaling</text>
+<text x="-37.8109130859375" y="2.7891044999999988" style="font: normal 27.891045px 'Open Sans'" text-anchor="start" dy="11.024128458498025" opacity="1" fill="rgb(163, 163, 163)" stroke="none" transform="translate(490, 358)">HTML</text>
+<text x="-15.618438720703125" y="2.7891044999999988" style="font: normal 27.891045px 'Open Sans'" text-anchor="start" dy="11.024128458498025" opacity="1" fill="rgb(0, 0, 0)" stroke="none" transform="translate(312, 272) rotate(-12)">S3</text>
+<text x="-51.817901611328125" y="2.3242537500000005" style="font: normal 23.2425375px 'Open Sans'" text-anchor="start" dy="9.18677371541502" opacity="1" fill="rgb(0, 0, 0)" stroke="none" transform="translate(318, 164) rotate(-12)">Javascript</text>
+<text x="-53.40618896484375" y="2.3242537500000005" style="font: normal 23.2425375px 'Open Sans'" text-anchor="start" dy="9.18677371541502" opacity="1" fill="rgb(0, 0, 0)" stroke="none" transform="translate(220, 296) rotate(-12)">Payments</text>
+<text x="-34.28971862792969" y="1.8594029999999995" style="font: normal 18.59403px 'Open Sans'" text-anchor="start" dy="7.349418972332017" opacity="1" fill="rgb(0, 0, 0)" stroke="none" transform="translate(472, 184) rotate(12)">Caching</text>
+<text x="-25.422470092773438" y="1.8594029999999995" style="font: normal 18.59403px 'Open Sans'" text-anchor="start" dy="7.349418972332017" opacity="1" fill="rgb(31, 190, 224)" stroke="none" transform="translate(382, 280)">Stripe</text>
+<text x="-27.214065551757812" y="1.8594029999999995" style="font: normal 18.59403px 'Open Sans'" text-anchor="start" dy="7.349418972332017" opacity="1" fill="rgb(0, 0, 0)" stroke="none" transform="translate(452, 266) rotate(-12)">Redux</text>
+<text x="-26.79224395751953" y="1.8594029999999995" style="font: normal 18.59403px 'Open Sans'" text-anchor="start" dy="7.349418972332017" opacity="1" fill="rgb(31, 190, 224)" stroke="none" transform="translate(244, 266) rotate(12)">HIPAA</text>
+<text x="-23.821380615234375" y="1.8594029999999995" style="font: normal 18.59403px 'Open Sans'" text-anchor="start" dy="7.349418972332017" opacity="1" fill="rgb(76, 76, 76)" stroke="none" transform="translate(458, 162) rotate(12)">React</text>
+<text x="-21.154388427734375" y="1.8594029999999995" style="font: normal 18.59403px 'Open Sans'" text-anchor="start" dy="7.349418972332017" opacity="1" fill="rgb(0, 0, 0)" stroke="none" transform="translate(340, 216)">SCSS</text>
+<text x="-14.042457580566406" y="1.8594029999999995" style="font: normal 18.59403px 'Open Sans'" text-anchor="start" dy="7.349418972332017" opacity="1" fill="rgb(31, 190, 224)" stroke="none" transform="translate(370, 360)">PCI</text>
+<text x="-31.801727294921875" y="1.3945522499999994" style="font: normal 13.9455225px 'Open Sans'" text-anchor="start" dy="5.512064229249012" opacity="1" fill="rgb(163, 163, 163)" stroke="none" transform="translate(250, 218)">Papertrial</text>
+<text x="-31.886795043945312" y="1.3945522499999994" style="font: normal 13.9455225px 'Open Sans'" text-anchor="start" dy="5.512064229249012" opacity="1" fill="rgb(163, 163, 163)" stroke="none" transform="translate(242, 384) rotate(-12)">New-Relic</text>
+<text x="-22.672256469726562" y="1.3945522499999994" style="font: normal 13.9455225px 'Open Sans'" text-anchor="start" dy="5.512064229249012" opacity="1" fill="rgb(76, 76, 76)" stroke="none" transform="translate(434, 202) rotate(12)">MySQL</text>
+<text x="-20.851806640625" y="1.3945522499999994" style="font: normal 13.9455225px 'Open Sans'" text-anchor="start" dy="5.512064229249012" opacity="1" fill="rgb(76, 76, 76)" stroke="none" transform="translate(248, 250) rotate(12)">OAuth</text>
+<text x="-31.788734436035156" y="0.9297014999999997" style="font: normal 9.297015px 'Open Sans'" text-anchor="start" dy="3.6747094861660083" opacity="1" fill="rgb(0, 0, 0)" stroke="none" transform="translate(574, 318)">Authentication</text>
+<text x="-20.567848205566406" y="0.9297014999999997" style="font: normal 9.297015px 'Open Sans'" text-anchor="start" dy="3.6747094861660083" opacity="1" fill="rgb(0, 0, 0)" stroke="none" transform="translate(398, 440) rotate(-12)">Mercurial</text>
+<text x="-22.509750366210938" y="0.9297014999999997" style="font: normal 9.297015px 'Open Sans'" text-anchor="start" dy="3.6747094861660083" opacity="1" fill="rgb(163, 163, 163)" stroke="none" transform="translate(544, 362) rotate(12)">Mailchimp</text>
+<text x="-18.789093017578125" y="0.9297014999999997" style="font: normal 9.297015px 'Open Sans'" text-anchor="start" dy="3.6747094861660083" opacity="1" fill="rgb(76, 76, 76)" stroke="none" transform="translate(410, 156) rotate(-12)">adwords</text>
+<text x="-17.6561279296875" y="0.9297014999999997" style="font: normal 9.297015px 'Open Sans'" text-anchor="start" dy="3.6747094861660083" opacity="1" fill="rgb(0, 0, 0)" stroke="none" transform="translate(436, 376) rotate(-12)">Amazon</text>
+<text x="-12.501136779785156" y="0.9297014999999997" style="font: normal 9.297015px 'Open Sans'" text-anchor="start" dy="3.6747094861660083" opacity="1" fill="rgb(76, 76, 76)" stroke="none" transform="translate(358, 376) rotate(12)">Twilio</text>
+<text x="-13.54119873046875" y="0.9297014999999997" style="font: normal 9.297015px 'Open Sans'" text-anchor="start" dy="3.6747094861660083" opacity="1" fill="rgb(31, 190, 224)" stroke="none" transform="translate(288, 340) rotate(12)">Celery</text>
+<text x="-8.161880493164062" y="0.9297014999999997" style="font: normal 9.297015px 'Open Sans'" text-anchor="start" dy="3.6747094861660083" opacity="1" fill="rgb(0, 0, 0)" stroke="none" transform="translate(422, 306) rotate(12)">EC2</text>
+</svg>

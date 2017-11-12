@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { BrowserRouter, Route, Switch } from 'react-router-dom'
 
-import Navigation from './navigation';
 import Home from './home';
 
 class Root extends Component {
@@ -10,9 +9,8 @@ class Root extends Component {
     return (
       <BrowserRouter>
         <div id="wrapper">
-          <Route path='/' component={Navigation}/>
           <Switch>
-            <Route path='/' component={Home}/>
+            <Route path='*' component={Home}/>
           </Switch>
         </div>
       </BrowserRouter>
