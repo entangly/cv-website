@@ -9,7 +9,7 @@ class Skills extends Component {
         <div className="container">
           <div className="row">
             <div className="col-md-12">
-              <h1 className="section-title">Skills</h1>
+              <h1 className="section-title">Technical Skills</h1>
               <img src={skills} alt="" className="img-responsive"/>
             </div>
           </div>

@@ -9,7 +9,7 @@ class Interests extends Component {
   render() {
     return (
       <div className="jumbotron">
-        <div className="container">
+        <div className="container interests">
           <div className="row">
             <div className="col-md-12">
               <h1 className="section-title">Other Interests</h1>

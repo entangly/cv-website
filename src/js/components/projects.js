@@ -20,7 +20,7 @@ class Projects extends Component {
         title: "Rally Road",
         short_desc: "Platform where collector cars are turned into stocks",
         tech: "Python, Django, REST, caching, Stripe, security, mailchimp, Heroku, leadership",
-        long_desc: "As the lead backend engineer in a team of Python and iOS developers, my responsibilities included data model and server architecture, task distribution and feature planning. \n\n The project received no recommendations after undergoing a third-party security review. ",
+        long_desc: "As the lead backend engineer in a team of Python and iOS developers, my responsibilities included data model and server architecture, task distribution and feature planning. \n\n The project was validated without additional recommendations after undergoing a third-party security review. ",
       },
       cribdilla: {
         img: cribdilla,
@@ -42,7 +42,7 @@ class Projects extends Component {
         img: mixxta,
         title: "Mixxta",
         short_desc: "Share a table with others at nearby restaurants",
-        long_desc: "Mixxta is a cross platform mobile app that enables people to connect with other users to enjoy shared dining experiences together. \n\n As CTO, I was responsible for: \n\n• Scoping and designing the project specification and requirements \n\n• Leading a team of developers, designers and QA testers to develop the Android and iOS mobile apps \n\n• Developing an effective and reliable Django backend and PostGIS database for the apps to communicate with \n\n • Configuring a rapidly scalable, secure and monitored infrastructure using Heroku, S3, Redis, New Relic and Papertrail \n\n• Managing the security of all the technology to ensure no data is compromised \n\n• Designing a marketing site and web functionality using HTML, CSS and JavaScript (including Angular) \n\n\n\nThese mobile apps were successfully brought to market ahead of schedule.",
+        long_desc: "Mixxta is a cross platform mobile app that enables people to connect with other users to enjoy shared dining experiences together. \n\n As CTO, I was responsible for: \n\n• Scoping and designing the project specification and requirements \n\n• Leading a team of international developers, designers and QA testers to develop the Android and iOS mobile apps \n\n• Developing an effective and reliable Django backend and PostGIS database for the apps to communicate with \n\n • Configuring a rapidly scalable, secure and monitored infrastructure using Heroku, S3, Redis, New Relic and Papertrail \n\n• Managing the security of all the technology to ensure no data is compromised \n\n• Designing a marketing site and web functionality using HTML, CSS and JavaScript (including Angular) \n\n\n\nThese mobile apps were successfully brought to market ahead of schedule and within budget.",
         extraClasses: "needs-border needs-padding",
         tech: "Python, Django, iOS, Android, postgis, redis, TDD, unit testing, new relic, HTML, CSS, Javascript, Angular, Logging, REST, scalability, analytics, project management",
       },
@@ -81,7 +81,7 @@ class Projects extends Component {
         title: "4Front Interiors",
         extraClasses: "needs-border needs-padding",
         short_desc: "Northampton Builders",
-        long_desc: "Whilst leading Brading Software Ltd, we undertook a project for a nationwide building company, 4Front Interiors. \n \n I managed the client contact, scoping out the project requirements, which included website redevelopment and both android and ios app design. The project was delivered on time, on budget and to the satisfaction of the client. \n\n This novel app idea allows the building company to communicate with clients via instant messaging, upload and manage progress reports and co-ordinate scheduling, ensuring improved customer communications.",
+        long_desc: "Alongside my undergraduate studies, I undertook an independent project for a nationwide building company, 4Front Interiors. \n \n I managed the client contact, scoping out the project requirements, which included website redevelopment and both android and ios app design. The project was delivered on time, on budget and to the satisfaction of the client. \n\n This novel app idea allows the building company to communicate with clients via instant messaging, upload and manage progress reports and co-ordinate scheduling, ensuring improved customer communications.",
         tech: "Python, Django, iOS, Android, REST, Project management, Design",
       }
     }

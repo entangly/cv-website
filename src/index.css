@@ -409,6 +409,13 @@ template {
     .full-cv a:visited span {
       color: #1fbee0; }
 
+.interests .caption {
+  padding-left: 30px;
+  padding-right: 30px; }
+
+.interests p {
+  font-size: 18px; }
+
 .interest-image img {
   box-shadow: 2px 2px #000; }
 

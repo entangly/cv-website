@@ -15,6 +15,16 @@ class Job extends Component {
   }
 
   render() {
+    var list = undefined
+    if (this.props.list) {
+      const list_elements = this.props.list.map((element, index) => {return (<li key={index}>{element}</li>)})
+      list = (
+        <ul>
+          {list_elements}
+        </ul>
+      )
+    }
+
     return (
       <div>
         <h3 onClick={() => this.setState({ open: !this.state.open })}>
@@ -24,6 +34,7 @@ class Job extends Component {
           <div>
             <Well className="long-desc">
               {this.props.description}
+              {list}
             </Well>
           </div>
         </Collapse>
