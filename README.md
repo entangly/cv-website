@@ -17,4 +17,11 @@ This project includes Sass.
 
 # Deployment
 
-*TODO*
+Download google cloud SDK
+Login with connor@connorswain.co.uk
+Select correct project
+
+`npm install`
+`npm run build`
+Ensure node modules isn't deployed 
+`gcloud app deploy`

@@ -9,8 +9,10 @@ import mixxta from '../../img/mixx.png';
 import twizz from '../../img/twizz.png';
 import trialtech from '../../img/trialtech3.png';
 import mavenrocket from '../../img/mavenrocket.png';
-import nearYouNow from '../../img/nearyounow2.png'
-import fourFront from '../../img/4front.png'
+import nearYouNow from '../../img/nearyounow2.png';
+import fourFront from '../../img/4front.png';
+import bikelane from '../../img/bikelane.png';
+import spot from '../../img/spot.png';
 
 class Projects extends Component {
   render() {
@@ -83,6 +85,22 @@ class Projects extends Component {
         short_desc: "Northampton Builders",
         long_desc: "Alongside my undergraduate studies, I undertook an independent project for a nationwide building company, 4Front Interiors. \n \n I managed the client contact, scoping out the project requirements, which included website redevelopment and both android and ios app design. The project was delivered on time, on budget and to the satisfaction of the client. \n\n This novel app idea allows the building company to communicate with clients via instant messaging, upload and manage progress reports and co-ordinate scheduling, ensuring improved customer communications.",
         tech: "Python, Django, iOS, Android, REST, Project management, Design",
+      },
+      bikelane: {
+        img: bikelane,
+        title: "Bikelane",
+        extraClasses: "",
+        short_desc: "NYC based job platform",
+        long_desc: "As the lead backend developer for this long term project, I was responsible for maintaining high code quality and reliable infrastructure for the growing business. Integrations with Stipe subscriptions, Mandrill emails, Google Indexing and Geocoding, Indeed, ZipRecruiter and more - the project has lots of moving parts. Recently implemented load testing (using locust.io) for high usage endpoints to allow the business to launch a smooth marketing campaign.",
+        tech: "Pythom, Django, Stripe, Mandrill, Google indexing, Load testing"
+      },
+      spot: {
+        img: spot,
+        title: "Spot and Tango",
+        extraClasses: "",
+        short_desc: "Personalised meal plans for dogs",
+        long_desc: "As technical lead for the project, I was responsible for overseeing a team of developers as we transformed a simple Shopify store into a customised portal, integrating Shopify's API and Recharge to allow for a more personalised experience.",
+        tech: "Python, Django, React, Shopify, Recharge"
       }
     }
 
@@ -100,7 +118,7 @@ class Projects extends Component {
               <Project project={projectInfo.rally} />
             </div>
             <div className="col-sm-4">
-              <Project project={projectInfo.cribdilla} />
+              <Project project={projectInfo.bikelane} />
             </div>
             <div className="col-sm-4">
               <Project project={projectInfo.trial} />
@@ -109,13 +127,13 @@ class Projects extends Component {
 
           <div className="row">
             <div className="col-sm-4">
-              <Project project={projectInfo.mixxta} />
+              <Project project={projectInfo.spot} />
             </div>
             <div className="col-sm-4">
               <Project project={projectInfo.twizz} />
             </div>
             <div className="col-sm-4">
-              <Project project={projectInfo.jet} />
+              <Project project={projectInfo.cribdilla} />
             </div>
           </div>
 
@@ -133,7 +151,7 @@ class Projects extends Component {
               <Project project={projectInfo.near} />
             </div>
             <div className="col-sm-4">
-              <Project project={projectInfo.brading } />
+              <Project project={projectInfo.jet } />
             </div>
           </div>
 

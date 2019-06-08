@@ -25,7 +25,7 @@ class Interests extends Component {
                 <Col md={4}>
                   <Thumbnail src={Snowboarding} alt="" className="interest-image">
                     <p>
-                    Alongside my passions in Snowboarding, Rock Climbing and Mountain Biking, I’m qualified in Wilderness First Aid, Rock Rescue and am taking an avalanche rescue course (AST-1).
+                    Alongside my passions in Snowboarding, Rock Climbing and Mountain Biking, I’m qualified in Wilderness First Aid, Rock Rescue and have taken an avalanche safety course (AST-1).
                     </p>
                   </Thumbnail>
                 </Col>

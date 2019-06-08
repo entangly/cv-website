@@ -34,7 +34,7 @@ class CoreAttributes extends Component {
                   </div>
                   <div className="panel-body">
                     <ul>
-                      <li>4 years experience developing complex applications in Python and Django</li>
+                      <li>5 years experience developing complex applications in Python and Django</li>
                       <li>Strong database optimisation and performance skills</li>
                       <li>Thorough documentation and test coverage for every project</li>
                       <li>Comfortable working with Git or other version control systems</li>
